@@ -87,6 +87,9 @@
     <Compile Include="ResourceHelpers\MvxAndroidBindingResource.cs" />
     <Compile Include="ResourceHelpers\MvxAppResourceTypeFinder.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="Target\MvxAppCompatTextViewColorIdBinding.cs" />
+    <Compile Include="Target\MvxAppCompatViewBackgroundColorIdBinding.cs" />
+    <Compile Include="Target\MvxAppCompatViewBackgroundDrawableIdBinding.cs" />
     <Compile Include="Target\MvxImageViewImageDrawableTargetBinding.cs" />
     <Compile Include="Target\MvxListPreferenceTargetBinding.cs" />
     <Compile Include="Target\MvxAndroidPropertyInfoTargetBinding.cs" />

@@ -1,7 +1,7 @@
-﻿// MvxAndroidPropertyBinding.cs
+// MvxAndroidPropertyBinding.cs
 
-// MvvmCross is licensed using Microsoft Public License (Ms-PL)
-// Contributions and inspirations noted in readme.md and license.txt
+// MvvmCross is licensed using Microsoft Public License (Ms-PL) Contributions and
+// inspirations noted in readme.md and license.txt
 //
 // Project Lead - Stuart Lodge, @slodge, me@slodge.com
 
@@ -37,5 +37,8 @@ namespace MvvmCross.Binding.Droid
         public const string EditTextPreference_Text = "Text";
         public const string ListPreference_Value = "Value";
         public const string TwoStatePreference_Checked = "Checked";
+        public const string TextView_ColorId = "ColorId";
+        public const string View_BackgroundColorId = "BackgroundColorId";
+        public const string View_BackgroundDrawableId = "BackgroundDrawableId";
     }
 }
